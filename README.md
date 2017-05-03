@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+***
+## Statistics, Data Science, Machine Learning, R Programming, Python and Julia
+### What’s this site about?
+I plan to use this GitHub Home Page [jnbvd7.github.io](https://jnbvd7.github.io) to document some data science projects in [Python](https://www.python.org/), [Julia](http://julialang.org/) and [R](https://www.r-project.org/).
+### Who this site is for?  
+For me, as a reference, but may be useful for those with little or no coding background interested in data science, and/or those interested in technical and scientific computing. 
+### Contact  
+My email contact is on my GitHub profile page: [https://github.com/jnbvd7/](https://github.com/jnbvd7/)  
 
-You can use the [editor on GitHub](https://github.com/jnbvd7/jnbvd7.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+***  
+#### Progress will be documented below.  
+***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+##### Disclaimer: The information contained in this website is for general information purposes only and its use is strictly at your own risk. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jnbvd7/jnbvd7.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### The MIT License (MIT) ©2016-2017  jnbvd7.github.io  
